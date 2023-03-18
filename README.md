@@ -6,3 +6,5 @@ Following the book sequentially. 🧑‍🎓
 - Hello cargo, basic program with cargo [hello_cargo](/hello_cargo/)
 - Guessing game [guessing_game](/guessing_game/)
 - Basic concepts of the language [basic_concepts](/basic_concepts/)
+- Ownership in rust [ownership](/ownership/)
+- Slices in rust [slices_ownership](/ownership_slices/)
