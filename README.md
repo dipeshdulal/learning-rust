@@ -8,3 +8,4 @@ Following the book sequentially. 🧑‍🎓
 - Basic concepts of the language [basic_concepts](/basic_concepts/)
 - Ownership in rust [ownership](/ownership/)
 - Slices in rust [slices_ownership](/ownership_slices/)
+- Structs in rust [structs](/structs/)
