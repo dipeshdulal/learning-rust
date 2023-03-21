@@ -9,3 +9,4 @@ Following the book sequentially. 🧑‍🎓
 - Ownership in rust [ownership](/ownership/)
 - Slices in rust [slices_ownership](/ownership_slices/)
 - Structs in rust [structs](/structs/)
+- Enums and basic matching [enums](/enums/)
