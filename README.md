@@ -10,3 +10,4 @@ Following the book sequentially. 🧑‍🎓
 - Slices in rust [slices_ownership](/ownership_slices/)
 - Structs in rust [structs](/structs/)
 - Enums and basic matching [enums](/enums/)
+- If let syntax instead of match for some usecases. [if-let](/if-let/)
