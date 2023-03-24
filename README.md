@@ -12,3 +12,4 @@ Following the book sequentially. 🧑‍🎓
 - Enums and basic matching [enums](/enums/)
 - If let syntax instead of match for some usecases. [if-let](/if-let/)
 - Packages and crates [packages_crates](/packages_crates/)
+- Vectors, Strings and Hashmap [collections](/collections/)
